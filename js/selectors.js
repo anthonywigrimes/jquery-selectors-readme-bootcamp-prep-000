@@ -18,3 +18,5 @@ function divSelector () {
 function firstListItem () {
 
 }
+
+paragraphSelector();
