@@ -19,4 +19,4 @@ function firstListItem () {
 
 }
 
-paragraphSelector();
+console.log(paragraphSelector());
