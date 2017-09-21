@@ -8,11 +8,11 @@ function lastImageSelector () {
 }
 
 function ninjaBabySelector () {
-    return $('');
+    return $('#baby-ninja');
 }
 
 function divSelector () {
-
+    return $('.pics');
 }
 
 function firstListItem () {
